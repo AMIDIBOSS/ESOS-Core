@@ -1,0 +1,15 @@
+D:\GitHub\ESOS_core\ESOS\ESOS_core\bin\Debug\ESOS_core.dll
+D:\GitHub\ESOS_core\ESOS\ESOS_core\bin\Debug\ESOS_core.pdb
+D:\GitHub\ESOS_core\ESOS\ESOS_core\bin\Debug\Cosmos.Debug.Kernel.dll
+D:\GitHub\ESOS_core\ESOS\ESOS_core\bin\Debug\Cosmos.System.dll
+D:\GitHub\ESOS_core\ESOS\ESOS_core\bin\Debug\Cosmos.Common.dll
+D:\GitHub\ESOS_core\ESOS\ESOS_core\bin\Debug\Cosmos.HAL.dll
+D:\GitHub\ESOS_core\ESOS\ESOS_core\bin\Debug\Cosmos.Core.dll
+D:\GitHub\ESOS_core\ESOS\ESOS_core\bin\Debug\Cosmos.System.pdb
+D:\GitHub\ESOS_core\ESOS\ESOS_core\bin\Debug\Cosmos.Debug.Kernel.pdb
+D:\GitHub\ESOS_core\ESOS\ESOS_core\bin\Debug\Cosmos.Common.pdb
+D:\GitHub\ESOS_core\ESOS\ESOS_core\bin\Debug\Cosmos.HAL.pdb
+D:\GitHub\ESOS_core\ESOS\ESOS_core\bin\Debug\Cosmos.Core.pdb
+D:\GitHub\ESOS_core\ESOS\ESOS_core\obj\x86\Debug\ESOS_core.csprojResolveAssemblyReference.cache
+D:\GitHub\ESOS_core\ESOS\ESOS_core\obj\x86\Debug\ESOS_core.dll
+D:\GitHub\ESOS_core\ESOS\ESOS_core\obj\x86\Debug\ESOS_core.pdb
