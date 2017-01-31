@@ -11,15 +11,13 @@ namespace ESOS_core
         {
             Console.Clear();
             Console.WriteLine("Starting ESOS...");
-            core.boot();
+            
         }
 
         protected override void Run()
         {
-            Console.Write("Input: ");
-            var input = Console.ReadLine();
-            Console.Write("Text typed: ");
-            Console.WriteLine(input);
+            core.boot();
+
         }
     }
 }
